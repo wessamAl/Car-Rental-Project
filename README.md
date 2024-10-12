@@ -6,3 +6,5 @@ The Car Rental System is an online platform designed to simplify the process of 
 Users can browse available cars, filter them, and view detailed information.
 ## Book a Car
 Users can choose a car, select rental dates, and book it
+## Manage Booking
+Users can view their booking history, cancel, or modify bookings before the rental start date.
