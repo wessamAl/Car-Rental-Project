@@ -27,3 +27,8 @@ Users can sign up by providing their details through the registration form:
 3. **License Number** (required)
 4. **Email** (required)
 5. **Password** (required)
+
+### User Management
+- Users can view and edit their profiles.
+- Users can see their booking history, modify, or cancel upcoming bookings.
+- Passwords are encrypted for security.
