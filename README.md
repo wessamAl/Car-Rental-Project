@@ -18,3 +18,12 @@ The following information is collected from users when they register in the syst
 - **License Number**: Driver's license number to verify the user’s eligibility to rent a car.
 - **Email**: Used for login and notifications.
 - **Password**: A secure password to access the user’s account.
+
+### User Registration
+Users can sign up by providing their details through the registration form:
+
+1. **Name** (required)
+2. **Phone Number** (required)
+3. **License Number** (required)
+4. **Email** (required)
+5. **Password** (required)
