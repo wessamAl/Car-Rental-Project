@@ -57,3 +57,5 @@ Users can sign up by providing their details through the registration form:
 Provide a loyalty program for users that offers points or discounts on future rentals.
 ## Customer Car Ratings
 Allow users to rate each car after renting, helping other users make informed decisions.
+## Insurance Options
+Offer insurance options for cars to protect users in case of an accident.
