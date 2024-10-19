@@ -67,3 +67,5 @@ Create a dedicated section for electric vehicles, including information about av
 Develop a dedicated mobile app to facilitate car bookings and management from anywhere.
 ## Support System Enhancements
 Implement a live chat feature for customer support to assist clients in real-time.
+## Driver Management
+Provide the capability to manage information about available drivers for hire, including personal details and licenses.
