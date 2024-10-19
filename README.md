@@ -71,3 +71,9 @@ Implement a live chat feature for customer support to assist clients in real-t
 Provide the capability to manage information about available drivers for hire, including personal details and licenses.
 ## Informative Videos
 Add informative videos for each car highlighting its features and characteristics.
+## Surveys for Feedback
+Conduct regular surveys to gather user feedback and improve services.
+## Vendor Rating System
+Enable the evaluation of vendors (in case of multiple suppliers) by management based on quality and service.
+## Flexible Rental Options
+Offer flexible rental options such as hourly, daily, or weekly rentals.
