@@ -69,3 +69,5 @@ Develop a dedicated mobile app to facilitate car bookings and management from 
 Implement a live chat feature for customer support to assist clients in real-time.
 ## Driver Management
 Provide the capability to manage information about available drivers for hire, including personal details and licenses.
+## Informative Videos
+Add informative videos for each car highlighting its features and characteristics.
