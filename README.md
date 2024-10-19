@@ -55,4 +55,5 @@ Users can sign up by providing their details through the registration form:
 - Reports can be exported in CSV or PDF format.
 ## Loyalty and Rewards System
 Provide a loyalty program for users that offers points or discounts on future rentals.
-
+## Customer Car Ratings
+Allow users to rate each car after renting, helping other users make informed decisions.
