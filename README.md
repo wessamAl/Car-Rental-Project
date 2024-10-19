@@ -61,3 +61,5 @@ Allow users to rate each car after renting, helping other users make informed de
 Offer insurance options for cars to protect users in case of an accident.
 ## Map Integration
 Add a feature to display available car locations on an interactive map, assisting users in finding cars nearby.
+## Electric Vehicle Options
+Create a dedicated section for electric vehicles, including information about available charging stations.
