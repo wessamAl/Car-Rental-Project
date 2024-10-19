@@ -65,3 +65,5 @@ Add a feature to display available car locations on an interactive map, assistin
 Create a dedicated section for electric vehicles, including information about available charging stations.
 ## Mobile Application
 Develop a dedicated mobile app to facilitate car bookings and management from anywhere.
+## Support System Enhancements
+Implement a live chat feature for customer support to assist clients in real-time.
