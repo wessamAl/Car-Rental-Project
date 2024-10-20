@@ -77,3 +77,6 @@ Conduct regular surveys to gather user feedback and improve services.
 Enable the evaluation of vendors (in case of multiple suppliers) by management based on quality and service.
 ## Flexible Rental Options
 Offer flexible rental options such as hourly, daily, or weekly rentals.
+
+ ## Special Offers and Discounts Management
+Introduce a section for seasonal promotions and discounts to encourage user bookings.
