@@ -12,3 +12,9 @@
    - 2.3 User Characteristics
    - 2.4 Constraints
    - 2.5 Assumptions and Dependencies
+3. Specific Requirements
+   - 3.1 External Interface Requirements
+     - 3.1.1 User Interfaces
+     - 3.1.2 Hardware Interfaces
+     - 3.1.3 Software Interfaces
+   - 3.2 Functional Requirements
