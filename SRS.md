@@ -63,3 +63,7 @@ The car rental system includes features such as user registration,car browsing,b
 ## 1.5 Overview
 
 This document details the technical and functional requirements the system must have, along with specifications for security, performance, and maintainability.
+
+# 2. Overall Description
+
+## 2.1 Product Perspective
