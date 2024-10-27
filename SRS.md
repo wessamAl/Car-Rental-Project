@@ -54,3 +54,9 @@ The car rental system includes features such as user registration,car browsing,b
 - API: Application Programming Interface
 
 ## 1.4 References
+
+- "IEEE Recommended Practice for Software Requirements Specifications," IEEE Std 830-1998.
+- "Design Documentation for Car Rental System," Version 1.0, ABC Software Solutions, 2023.
+- "Integration Guide for Payment Gateway Systems," XYZ Payments Inc., 2023.
+- "User Interface Design Principles," PQR Publishing, 2022.
+
