@@ -69,3 +69,7 @@ This document details the technical and functional requirements the system must 
 ## 2.1 Product Perspective
 
 The system is an integrated platform that allows users to book cars online easily. It is accessible via web browsers on various devices and integrates with electronic payment systems and mapping services.
+
+## 2.2 Product Functions
+
+- User Registration: Ability to create an account, log in, and recover passwords.
