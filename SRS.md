@@ -81,3 +81,5 @@ The system is an integrated platform that allows users to book cars online easil
 
 The primary users are customers who want to rent cars, along with administrative staff who oversee booking operations and car management.
 
+## 2.4 Constraints
+
