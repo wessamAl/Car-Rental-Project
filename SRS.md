@@ -87,3 +87,6 @@ The primary users are customers who want to rent cars, along with administrative
 - Internet connection is required to use the system.
 
 ## 2.5 Assumptions and Dependencies
+
+- It is assumed that customers will have a stable internet connection.
+- The system relies on smooth integration with payment gateways and mapping services.
