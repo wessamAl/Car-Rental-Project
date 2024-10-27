@@ -47,3 +47,5 @@ This document provides a comprehensive overview of the requirements for the car 
 
 The car rental system includes features such as user registration,car browsing,booking,and online payment. The system operates as a standalone platform integrated with payment gateways and mapping service.
 
+## 1.3 Definitions, Acronyms, and Abbreviations
+
