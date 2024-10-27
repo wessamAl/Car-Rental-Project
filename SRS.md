@@ -67,3 +67,5 @@ This document details the technical and functional requirements the system must 
 # 2. Overall Description
 
 ## 2.1 Product Perspective
+
+The system is an integrated platform that allows users to book cars online easily. It is accessible via web browsers on various devices and integrates with electronic payment systems and mapping services.
