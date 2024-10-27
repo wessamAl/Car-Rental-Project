@@ -45,5 +45,5 @@ This document provides a comprehensive overview of the requirements for the car 
 
 ## 1.2 Scope
 
-
+The car rental system includes features such as user registration,car browsing,booking,and online payment. The system operates as a standalone platform integrated with payment gateways and mapping service.
 
