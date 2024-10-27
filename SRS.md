@@ -96,3 +96,6 @@ The primary users are customers who want to rent cars, along with administrative
 ## 3.1 External Interface Requirements
 
 ### 3.1.1 User Interfaces
+
+- Simple and user-friendly login interfaces.
+- Easy-to-navigate design displaying cars clearly, with effective filtering and search options.
