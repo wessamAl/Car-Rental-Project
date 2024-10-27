@@ -90,3 +90,5 @@ The primary users are customers who want to rent cars, along with administrative
 
 - It is assumed that customers will have a stable internet connection.
 - The system relies on smooth integration with payment gateways and mapping services.
+
+# 3. Specific Requirements
