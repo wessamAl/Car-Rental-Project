@@ -83,3 +83,6 @@ The primary users are customers who want to rent cars, along with administrative
 
 ## 2.4 Constraints
 
+- The system must be accessible via popular web browsers.
+- Internet connection is required to use the system.
+
