@@ -49,3 +49,6 @@ The car rental system includes features such as user registration,car browsing,b
 
 ## 1.3 Definitions, Acronyms, and Abbreviations
 
+- SRS: Software Requirements Specification
+- UI: User Interface
+- API: Application Programming Interface
