@@ -38,4 +38,8 @@
      - 4.3.5 [Car Specifications Table](#car-specifications-table)
      - 4.3.6 [Use Case Scenarios Table](#use-case-scenarios-table)
 # 1. Introduction
+## 1.1 Purpose
+
+This document provides a comprehensive overview of the requirements for the car rental system, which aims to facilitate car rental for users through an integrated online platform. It is intended for developers, designers, and any stakeholders involved in system development or testing.
+
 
