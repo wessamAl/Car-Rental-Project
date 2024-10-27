@@ -73,3 +73,6 @@ The system is an integrated platform that allows users to book cars online easil
 ## 2.2 Product Functions
 
 - User Registration: Ability to create an account, log in, and recover passwords.
+- Browse Cars: Display available cars with filtering by location and type.
+- Booking: Ability to book cars for specified periods and confirm bookings via email.
+
