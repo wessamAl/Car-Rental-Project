@@ -77,3 +77,7 @@ The system is an integrated platform that allows users to book cars online easil
 - Booking: Ability to book cars for specified periods and confirm bookings via email.
 - Online Payment: Support for various online payment methods and electronic invoicing.
 
+
+## 2.3 User Characteristics
+
+
