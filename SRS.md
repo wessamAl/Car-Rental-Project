@@ -43,4 +43,7 @@
 
 This document provides a comprehensive overview of the requirements for the car rental system, which aims to facilitate car rental for users through an integrated online platform. It is intended for developers, designers, and any stakeholders involved in system development or testing.
 
+## 1.2 Scope
+
+
 
