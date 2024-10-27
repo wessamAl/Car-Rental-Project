@@ -92,3 +92,7 @@ The primary users are customers who want to rent cars, along with administrative
 - The system relies on smooth integration with payment gateways and mapping services.
 
 # 3. Specific Requirements
+
+## 3.1 External Interface Requirements
+
+### 3.1.1 User Interfaces
