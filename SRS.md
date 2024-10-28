@@ -122,3 +122,7 @@ The primary users are customers who want to rent cars, along with administrative
 ### 3.2.3 Booking
 
 - Users can easily book cars by selecting the rental period and choosing the desired car.
+
+### 3.2.4 Payment
+
+- The system supports payments via credit cards and various online payment gateways.
