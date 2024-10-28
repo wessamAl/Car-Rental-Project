@@ -172,3 +172,17 @@ The primary users are customers who want to rent cars, along with administrative
 | HW-01          | Hardware Interface  | The system should support displays of various sizes (computers, phones, tablets).       |
 | SW-01          | Software Interface  | The system integrates with electronic payment gateways to complete financial transactions. |
 | COM-01         | Communication Interface | The system should support HTTPS protocol to ensure secure communication between the server and users. |
+
+
+---
+
+## 4.3.2 Functional Requirements Table
+
+| Requirement ID | Functionality          | Description                                                                         |
+|----------------|------------------------|-------------------------------------------------------------------------------------|
+| FR-01          | User Registration      | Users should be able to register by providing necessary details such as name, email, etc. |
+| FR-02          | Browse Cars            | Users should be able to browse cars with options to filter by make, model, and price. |
+| FR-03          | Booking                | Users should be able to book a car with their preferred date and time.             |
+| FR-04          | Payment                | The system should process payments securely through various payment gateways.       |
+
+---
