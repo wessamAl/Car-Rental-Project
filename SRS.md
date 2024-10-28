@@ -126,3 +126,6 @@ The primary users are customers who want to rent cars, along with administrative
 ### 3.2.4 Payment
 
 - The system supports payments via credit cards and various online payment gateways.
+
+## 3.3 Non-Functional Requirements
+
