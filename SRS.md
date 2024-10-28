@@ -142,4 +142,7 @@ The primary users are customers who want to rent cars, along with administrative
 
 - Code should be organized and structured to allow easy modification and updates.
 
+### 3.3.4 Portability
+
+- The system should operate on different types of devices without issues.
 
