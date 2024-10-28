@@ -129,3 +129,7 @@ The primary users are customers who want to rent cars, along with administrative
 
 ## 3.3 Non-Functional Requirements
 
+### 3.3.1 Performance
+
+- Pages should load within a few seconds, supporting more than 1000 concurrent users.
+
