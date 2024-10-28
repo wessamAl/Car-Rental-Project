@@ -164,3 +164,11 @@ The primary users are customers who want to rent cars, along with administrative
 ---
 
 ## 4.3.1 External Interface Requirements Table
+
+| Requirement ID | Interface Type      | Description                                                                              |
+|----------------|---------------------|------------------------------------------------------------------------------------------|
+| UI-01          | User Interface      | The registration page should include fields for entering name, email, phone number, and password. |
+| UI-02          | User Interface      | The search interface should be user-friendly and include filtering options by type, location, and price. |
+| HW-01          | Hardware Interface  | The system should support displays of various sizes (computers, phones, tablets).       |
+| SW-01          | Software Interface  | The system integrates with electronic payment gateways to complete financial transactions. |
+| COM-01         | Communication Interface | The system should support HTTPS protocol to ensure secure communication between the server and users. |
