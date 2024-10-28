@@ -197,3 +197,15 @@ The primary users are customers who want to rent cars, along with administrative
 | NFR-04         | Portability         | The system should be compatible with major web browsers and mobile platforms.      |
 
 ---
+
+## 4.3.4 User Data Specifications Table
+
+| Data Field    | Type          | Description                                                                         |
+|---------------|---------------|-------------------------------------------------------------------------------------|
+| Username      | String        | A unique identifier chosen by the user during registration.                        |
+| Email         | String        | The user's email address for account verification and communication.               |
+| Password      | String (Hashed)| A secure password, stored in a hashed format.                                       |
+| Phone Number  | String        | Contact number for account and service-related communication.                      |
+
+---
+
