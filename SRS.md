@@ -99,3 +99,6 @@ The primary users are customers who want to rent cars, along with administrative
 
 - Simple and user-friendly login interfaces.
 - Easy-to-navigate design displaying cars clearly, with effective filtering and search options.
+
+### 3.1.2 Hardware Interfaces
+
