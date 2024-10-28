@@ -103,3 +103,5 @@ The primary users are customers who want to rent cars, along with administrative
 ### 3.1.2 Hardware Interfaces
 
 - Compatible with desktop computers, smartphones, and tablets.
+
+### 3.2.2 Browse Cars
