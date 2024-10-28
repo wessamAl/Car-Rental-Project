@@ -160,3 +160,7 @@ The primary users are customers who want to rent cars, along with administrative
 ## 4.3 Specification Tables
 
 - Specification tables detailing system implementation and its various relationship
+
+---
+
+## 4.3.1 External Interface Requirements Table
