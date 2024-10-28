@@ -186,3 +186,14 @@ The primary users are customers who want to rent cars, along with administrative
 | FR-04          | Payment                | The system should process payments securely through various payment gateways.       |
 
 ---
+
+## 4.3.3 Non-Functional Requirements Table
+
+| Requirement ID | Aspect              | Description                                                                       |
+|----------------|---------------------|-----------------------------------------------------------------------------------|
+| NFR-01         | Performance         | The system should respond to user actions within 2 seconds under normal conditions. |
+| NFR-02         | Security            | Data should be encrypted and secured against unauthorized access.                  |
+| NFR-03         | Maintainability     | The system architecture should allow easy updates and maintenance.                 |
+| NFR-04         | Portability         | The system should be compatible with major web browsers and mobile platforms.      |
+
+---
