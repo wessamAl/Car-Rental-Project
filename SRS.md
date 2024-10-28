@@ -139,3 +139,7 @@ The primary users are customers who want to rent cars, along with administrative
 - HTTPS protocol is used to ensure secure data transmission.
 
 ### 3.3.3 Maintainability
+
+- Code should be organized and structured to allow easy modification and updates.
+
+
