@@ -136,3 +136,4 @@ The primary users are customers who want to rent cars, along with administrative
 ### 3.3.2 Security
 
 - All personal and sensitive data must be encrypted.
+- HTTPS protocol is used to ensure secure data transmission.
