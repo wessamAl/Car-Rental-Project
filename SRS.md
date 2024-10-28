@@ -109,6 +109,13 @@ The primary users are customers who want to rent cars, along with administrative
 - Integration with mapping services to display available car locations.
 - Supports integration with electronic payment gateways for seamless transactions.
 
+## 3.2 Functional Requirements
+
+### 3.2.1 User Registration
+
+- Allows users to create an account using a valid email, secure password, phone number, and driver's license number.
+- Email verification is required to activate the account.
+
 ### 3.2.2 Browse Cars
 - Users can browse available cars with the ability to filter results by location, type, and price.
 
