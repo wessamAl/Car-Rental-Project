@@ -157,3 +157,4 @@ The primary users are customers who want to rent cars, along with administrative
 
 - Diagrams illustrating how data flows between different components of the system.
 
+## 4.3 Specification Tables
