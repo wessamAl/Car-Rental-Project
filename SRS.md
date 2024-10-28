@@ -133,3 +133,6 @@ The primary users are customers who want to rent cars, along with administrative
 
 - Pages should load within a few seconds, supporting more than 1000 concurrent users.
 
+### 3.3.2 Security
+
+- All personal and sensitive data must be encrypted.
