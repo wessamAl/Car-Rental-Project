@@ -147,3 +147,8 @@ The primary users are customers who want to rent cars, along with administrative
 - The system should operate on different types of devices without issues.
 
 # 4. Appendixes
+
+
+## 4.1 Interface Design
+
+- Initial interface designs for the main screens.
