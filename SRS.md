@@ -154,3 +154,6 @@ The primary users are customers who want to rent cars, along with administrative
 - Initial interface designs for the main screens.
 
 ## 4.2 Data Flow Diagrams
+
+- Diagrams illustrating how data flows between different components of the system.
+
