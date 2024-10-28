@@ -106,3 +106,7 @@ The primary users are customers who want to rent cars, along with administrative
 
 ### 3.2.2 Browse Cars
 - Users can browse available cars with the ability to filter results by location, type, and price.
+
+### 3.2.3 Booking
+
+- Users can easily book cars by selecting the rental period and choosing the desired car.
