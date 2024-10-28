@@ -209,3 +209,4 @@ The primary users are customers who want to rent cars, along with administrative
 
 ---
 
+## 4.3.5 Car Specifications Table
