@@ -210,3 +210,14 @@ The primary users are customers who want to rent cars, along with administrative
 ---
 
 ## 4.3.5 Car Specifications Table
+
+| Attribute     | Type          | Description                                                                         |
+|---------------|---------------|-------------------------------------------------------------------------------------|
+| Car ID        | String        | Unique identifier for each car in the system.                                      |
+| Make          | String        | Manufacturer of the car (e.g., Toyota, Honda).                                     |
+| Model         | String        | Model of the car (e.g., Camry, Accord).                                            |
+| Year          | Integer       | Year of manufacture of the car.                                                    |
+| Price         | Float         | Rental price per day.                                                              |
+
+---
+
