@@ -221,3 +221,12 @@ The primary users are customers who want to rent cars, along with administrative
 
 ---
 
+## 4.3.6 Use Case Scenarios Table
+
+| Use Case ID   | Title               | Description                                                                         |
+|---------------|--------------------|-------------------------------------------------------------------------------------|
+| UC-01         | Register Account   | A user creates a new account on the platform.                                       |
+| UC-02         | Search for Cars    | A user searches for available cars based on preferences.                           |
+| UC-03         | Book a Car         | A user selects a car and confirms the booking details.                             |
+| UC-04         | Make Payment       | A user completes the payment process for booking a car.                            |
+
